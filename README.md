@@ -9,7 +9,7 @@ The purpose to use traditional method is we can understand what heppened during 
 ## Pipeline
 * **Input**
 	
-	The project used training images from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html) and [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/). 
+	The project used training images from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html) and [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/). Finally we implement the code in video stream, please see this [project video](https://github.com/garychian/SDE-Project_4-Vehicle_Detection_and_tracking/blob/master/project_video.mp4)
 
 
 * **Feature Extraction**: Decide what features to use, color or gradient based features
